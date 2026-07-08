@@ -4,7 +4,7 @@ A Smart Traffic Fine Management System developed using **C++** and **MySQL** to 
 
 ---
 
-## 📌 Features
+##  Features
 
 -  User Registration & Login
 -  Role-Based Access Control
@@ -19,7 +19,7 @@ A Smart Traffic Fine Management System developed using **C++** and **MySQL** to 
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - C++
 - MySQL
@@ -29,7 +29,7 @@ A Smart Traffic Fine Management System developed using **C++** and **MySQL** to 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Smart-Traffic-Fine-System/
@@ -45,7 +45,7 @@ Smart-Traffic-Fine-System/
 
 ---
 
-## 🗄 Database Tables
+##  Database Tables
 
 - Users
 - TrafficStaff
@@ -55,7 +55,7 @@ Smart-Traffic-Fine-System/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Login Page
 
@@ -100,7 +100,7 @@ Smart-Traffic-Fine-System/
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Rabiatul Adawiyah Mahadi**
 
